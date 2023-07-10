@@ -51,6 +51,8 @@ After starting the application go to your local host.
 ## Screenshot
 ![image](https://github.com/MaryVDa/Text-Editor/assets/122223756/e1673b89-d20e-4081-ba0b-0df4bf01cb27)
 
+## Deployed App
+Deployed using Heroku: https://text-editor-mvd-a2fa7061c883.herokuapp.com/
 
 ## GitHub
 Contact for any questions:   
