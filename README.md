@@ -56,4 +56,4 @@ Contact for any questions:
 https://github.com/MaryVDa/Text-Editor
 
 ## Credits
-Starter code by: https://github.com/coding-boot-camp/cautious-meme
+Starter code by: https://github.com/coding-boot-camp/cautious-meme 
