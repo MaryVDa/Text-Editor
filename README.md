@@ -49,6 +49,7 @@ In the terminal enter ```npm run build```. Then enter ```npm run start``` to sta
 After starting the application go to your local host.
 
 ## Screenshot
+![image](https://github.com/MaryVDa/Text-Editor/assets/122223756/e1673b89-d20e-4081-ba0b-0df4bf01cb27)
 
 
 ## GitHub
